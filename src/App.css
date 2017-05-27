@@ -15,6 +15,10 @@
 }
 
 .App-intro {
+  background-color: #006;
+  height: 200px;
+  padding: 20px;
+  color: white;
   font-size: large;
 }
 

@@ -17,5 +17,5 @@
     "eject": "react-scripts eject",
     "deploy": "npm run build&&gh-pages -d build"
   },
-  "homepage": "https://noah-mcaulay.github.io"
+  "homepage": "https://noah-mcaulay.github.io/sample-react-app"
 }
