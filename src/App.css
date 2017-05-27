@@ -4,7 +4,7 @@
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+  height: 500px;
 }
 
 .App-header {
@@ -17,8 +17,7 @@
 .App-intro {
   background-color: #006;
   height: 200px;
-  padding: 20px;
-  color: white;
+  color: red;
   font-size: small;
 }
 
